@@ -84,7 +84,7 @@ Though, we learn about God, Angels, and the afterlife, by going through a bit of
 ## Testimoni atau observasi?
 
 ::: {.incremental}
-- Banyak bukti menunjukkan bahwa kita mempelajari *naive theories* tentang entitas yang tidak dapat diamati (e.g., Tuhan, bakteri, malaikat, proses mental, dll.) terutama melalui **testimoni**.
+- Banyak bukti menunjukkan bahwa kita mempelajari *naive theories* tentang entitas yang **tidak dapat diamati** (e.g., Tuhan, bakteri, malaikat, proses mental, dll.) terutama melalui **testimoni**.
 - Artinya, kita belajar dengan mengkombinasikan **pengalaman langsung** and ***cultural input***.
   - **Pengalaman langsung**: pengamatan langsung yang tidak bergantung pada kesaksian/testimoni orang lain.
   - ***Cultural input***: Informasi yang diperoleh dari individu lain, baik secara lisan maupun simbolis.
@@ -159,13 +159,13 @@ Jika penjelasan ilmiah dan agama diperoleh/dipelajari dengan cara yang serupa da
 ::: {.incremental}
 - Para ilmuwan mengajukan argumentasi bahwa "kompetisi" ini terjadi tidak hanya di level individual, tetapi juga di **level institusional**.
 - **Teori sekularisasi**: ilmuwan sosial (e.g., Freud, Durkheim) telah memprediksi sejak lama bahwa institusi keagamaan akan **kehilangan relevansinya** seiring dengan laju industrialisasi. 
-- **Conceptual change hypothesis**: ketika anak-anak mulai belajar sains di sekolah, *naive theories* mereka, termasuk *pengetahuan agama*, akan **tergantikan seluruhnya** oleh ilmu pengetahuan.
+- ***Conceptual change hypothesis***: ketika anak-anak mulai belajar sains di sekolah, *naive theories* mereka, termasuk *pengetahuan agama*, akan **tergantikan seluruhnya** oleh ilmu pengetahuan.
 :::
 
 ## Sekularisasi dan *conceptual change*
 
 :::{.callout-warning}
-Jika kedua hipotesis ini benar, maka kita akan melihat **berkurangnya pengaruh** institusi keagamaan, seiring dengan kemajuan penelitian. Selain itu, individu akan **kehilangan imannya** sama sekali setelah mendapatkan pendidikan sains.
+Jika kedua hipotesis ini benar, maka kita akan melihat **berkurangnya pengaruh institusi keagamaan**, seiring dengan kemajuan penelitian. Selain itu, individu akan **kehilangan imannya** sama sekali setelah mendapatkan pendidikan sains.
 :::
 
 . . .
@@ -173,9 +173,12 @@ Jika kedua hipotesis ini benar, maka kita akan melihat **berkurangnya pengaruh**
 Data-data menunjukkan bahwa kedua pola ini memang terjadi, setidaknya sebagian.
 
 ## Sekularisasi dan *conceptual change*
+
+::: {.incremental}
 - Ada tren **penurunan** yang cukup tajam dalam partisipasi pada kegiatan keagamaan, terutama di negara-negara dengan laju industrialiasi yang cepat.
 - Banyak bukti yang menunjukkan bahwa individu cenderung mempersepsi adanya **konflik** antara sains dan agama, setelah masuk ke **pendidikan tinggi**.
 - Bukti-bukti dari studi-studi lintas budaya dan skala besar menunjukkan bahwa kemampuan **berpikir kritis dan reflektif**, yang merupakan pondasi perangai ilmiah, berhubungan erat dengan **ketidakpercayaan terhadap Tuhan**.
+:::
 
 ::: {.notes}
 Which means that reflective and critical thinkers are less likely to be religious
@@ -195,7 +198,7 @@ Meskipun ilmuwan biasanya **cenderung tidak/kurang religius** kalau dibandingkan
 
 . . .
 
-Orang-orang dari berbagai usia dan budaya ditemukan menggunakan **penjelasan ilmiah dan agama** secara bersamaan untuk menjelaskan berbagai fenomena, terlepas dari apakah mereka memiliki atau tanpa literasi sains. Dalam psikologi, fenomena ini disebut **explanatory coexistence**.
+Orang-orang dari berbagai usia dan budaya ditemukan menggunakan **penjelasan ilmiah dan agama** secara bersamaan untuk menjelaskan berbagai fenomena, terlepas dari apakah mereka memiliki atau tanpa literasi sains. Dalam psikologi, fenomena ini disebut ***explanatory coexistence***.
 
 ::: {.notes}
 Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians believe that belief in God is important to be moral and have good values.
@@ -204,12 +207,16 @@ Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians 
 ## Keyakinan Agama: Defisiensi atau respon adaptif?
 
 :::{.callout-warning}
-Kalau seandainya penjelasan ilmiah dan agama *berkompetisi* untuk memperebutkan *mental resource* kita, mengapa kedua penjelasan ini muncul secara bersamaan seperti yang ditunjukkan oleh riset-riset *explanatory coexistence*?
+Kalau seandainya penjelasan ilmiah dan agama *berkompetisi* untuk memperebutkan *mental resource* kita, mengapa kedua penjelasan ini **digunakan secara bersamaan** seperti yang ditunjukkan oleh riset-riset *explanatory coexistence*?
 :::
 
 . . .
 
-Beberapa orang berpendapat bahwa bertahannya keyakinan agama di hadapan penjelasan ilmiah menunjukkan adanya **defisiensi pada kemampuan bernalar** akibat proses belajar yang tidak tuntas. Namun, semakin banyak bukti menunjukkan bahwa hal ini disebabkan oleh fungsi penjelasan ilmiah dan agama yang memiliki **fungsi yang berbeda**.
+Beberapa orang berpendapat bahwa bertahannya keyakinan agama di hadapan penjelasan ilmiah menunjukkan adanya **defisiensi pada kemampuan penalaran** akibat proses belajar yang tidak tuntas. 
+
+. . .
+
+Namun, semakin banyak bukti menunjukkan bahwa hal ini disebabkan oleh fungsi penjelasan ilmiah dan agama yang memiliki **fungsi yang berbeda**.
 
 ## Perbedaan fungsi
 

@@ -231,7 +231,7 @@ Kami melakukan sebuah eksperimen yang melibatkan **719 partisipan** di Jerman, d
 
 . . .
 
-Partisipan kemudian menilai sejauh mana mereka menganggap setiap penjelasan tersebut bermanfaat bagi mereka (*utility ratings*, 4 pernyataan, 1/sangat tidak setuju - 7/sangat setuju).
+Partisipan kemudian menilai sejauh mana mereka merasa bahwa setiap penjelasan tersebut bermanfaat bagi mereka (*utility ratings*, 4 pernyataan, 1/sangat tidak setuju - 7/sangat setuju).
 
 . . .
 
@@ -239,17 +239,19 @@ Partisipan juga mengisi skala religiusitas.
 
 ## Beberapa Bukti Awal (Zein & Gollwitzer, 2025)
 
+[Contoh *vignette*]{.mark}
+
 *"Throughout history, human civilization has faced enormous collective adversity, including violent war. Millions of people have died, been displaced, and others have been indirectly affected by the devastating effects of violent war. “Why are there so many violent wars in the world?” you may ask. Below are plausible explanation(s) for the causes of violent war."*
 
 ## Beberapa Bukti Awal (Zein & Gollwitzer, 2025)
 
-Penjelasan 1:
+[Penjelasan 1:]{.mark}
 
 *Research on intergroup relations shows that collective memories of past conflicts, injustices, or humiliations can fuel war. When societies or groups focus on these historical grievances, they may seek revenge or retribution, perpetuating cycles of violence.*
 
 . . .
 
-Penjelasan 2:
+[Penjelasan 2:]{.mark}
 
 *Although God teaches peace and reconciliation, He also allows wars as a means of restoring justice. People must be punished for some wrongdoings and are therefore allowed to punish each other. Therefore, war is something that is ultimately willed by God.*
 
@@ -271,25 +273,30 @@ Utility ratings of religious explanations vary depending on participants' religi
 
 ## Apa artinya?
 
+::: {.incremental}
 - Hanya *utility ratings* dari penjelasan agama yang berhubungan dengan religiusitas.
   - Semakin religius, semakin tinggi *utility ratings* yang diberikan partisipan pada penjelasan agama.
 - *Utility ratings* dari penjelasan ilmiah **cenderung seragam**, baik pada partisipan yang religius maupun yang tidak.
 - Penjelasan ilmiah **diterima secara universal**, sedangkan penjelasan agama tidak (tergantung religiusitas).
 - Hal ini menguatkan dugaan bahwa penjelasan saintifik dan religius diproses secara berbeda, sehingga dapat muncul/digunakan bersamaan (e.g., *explanatory coexistence*).
+:::
 
 ## Kesimpulan
 
+::: {.incremental}
 - Manusia dapat menggunakan penjelasan ilmiah dan agama secara bersamaan, karena...
   - Kedua penjelasan ini berguna untuk **tujuan yang berbeda**.
   - Manusia menerapkan ***processing rules* yang berbeda** ketika menggunakan penjelasan ilmiah dan agama.
 - Oleh karena itu, penjelasan agama (*religious/supernatural beliefs*) **tidak mungkin** bisa digantikan seluruhnya oleh pengetahuan ilmiah dan **tidak menghalangi/menghambat** perangai/pemahaman ilmiah.
+:::
 
 ## Terima kasih!
 
-### Akses presentasi ini dengan *scan* kode QR di bawah:
+Akses presentasi ini dengan *scan* kode QR di bawah ini:
 
+![](img/qr.png){fig-align="center" width="25%"}
 
-::: {.callout-note}
+::: {.callout-tip}
 **Kontak saya**:
 
 - Email: [amelia.zein@psikologi.unair.ac.id](mailto:amelia.zein@psikologi.unair.ac.id) atau [Amelia.Zein@cais-research.de](mailto:Amelia.Zein@cais-research.de)

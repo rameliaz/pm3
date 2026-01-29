@@ -14,19 +14,24 @@ format:
 
 ## Mana yang lebih meyakinkan?
 ## Mana yang lebih meyakinkan?
+
+[Penjelasan 1:]{.mark} 
+
 Gangguan kesehatan mental terjadi akibat kombinasi faktor **biologis** (genetik, fungsi syaraf), **psikologis** (kepribadian, gaya penyelesaian masalah), dan **risiko sosioekonomi** (relasi interpersonal, trauma, kemiskinan). Pengobatan **medis** dan **psikoterapi** dapat membantu orang dengan gangguan kesehatan mental agar menjalani kehidupannya dengan optimal.
 
-. . .
+## Mana yang lebih meyakinkan?
+
+[Penjelasan 2:]{.mark}
 
 Gangguan kesehatan mental adalah **ujian dari Tuhan YME** yang dapat membuat kita **lebih kuat secara spiritual**. Kebanyakan orang dapat menemukan kedamaian dengan **beribadah**, **mengingat Tuhan**, dan **yakin** bahwa setiap kesulitan ada makna/tujuannya. 
 
-. . . 
+## Mana yang lebih meyakinkan?
 
 ::: {.callout-warning}
 Penjelasan yang mana yang menurut Anda lebih **meyakinkan**?
 :::
 
-## Mana yang lebih meyakinkan?
+. . .
 
 ::: {.callout-tip}
 Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan**, tetapi bagi beberapa yang lain, jawabannya bisa lebih rumit dari itu.
@@ -198,7 +203,7 @@ Meskipun ilmuwan biasanya **cenderung tidak/kurang religius** kalau dibandingkan
 
 . . .
 
-Orang-orang dari berbagai usia dan budaya ditemukan menggunakan **penjelasan ilmiah dan agama** secara bersamaan untuk menjelaskan berbagai fenomena, terlepas dari apakah mereka memiliki atau tanpa literasi sains. Dalam psikologi, fenomena ini disebut ***explanatory coexistence***.
+Banyak orang dari berbagai usia dan budaya ditemukan menggunakan **penjelasan ilmiah dan agama** secara bersamaan untuk menjelaskan berbagai fenomena, terlepas dari tingkat literasi sains yang mereka miliki. Dalam psikologi, fenomena ini disebut ***explanatory coexistence***.
 
 ::: {.notes}
 Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians believe that belief in God is important to be moral and have good values.
@@ -220,7 +225,7 @@ Namun, semakin banyak bukti menunjukkan bahwa hal ini disebabkan oleh fungsi pen
 
 ## Perbedaan fungsi
 
-Penjelasan ilmmiah dan agama digunakan untuk **tujuan yang berbeda**, sehingga kita menggunakan **processing rules** yang berbeda ketika memproses keduanya secara psikologis.
+Penjelasan ilmiah dan agama digunakan untuk **tujuan yang berbeda**, sehingga kita menerapkan **processing rules** yang berbeda ketika memproses keduanya secara psikologis.
 
 . . . 
 

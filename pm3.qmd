@@ -22,12 +22,14 @@ Gangguan kesehatan mental adalah **ujian dari Tuhan YME** yang dapat membuat kit
 
 . . . 
 
-Penjelasan yang mana yang menurut Anda lebih **meyakinkan** atau **bermanfaat**?
+::: {.callout-warning}
+Penjelasan yang mana yang menurut Anda lebih **meyakinkan**?
+:::
 
 ## Mana yang lebih meyakinkan?
 
 ::: {.callout-tip}
-Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan**, tetapi bagi yang lain, jawabannya bisa lebih rumit dari itu.
+Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan**, tetapi bagi beberapa yang lain, jawabannya bisa lebih rumit dari itu.
 :::
 
 ## *Disclaimer*
@@ -37,17 +39,17 @@ Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan*
 ## *Disclaimer* 
 
 ::: {.callout-important}
-***Pertanyaan teologis***: "*Apakah penjelasan agama dan saintifik kompatibel atau bertentangan?*"
+**Pertanyaan teologis**: "*Apakah penjelasan agama dan saintifik kompatibel atau bertentangan?*"
 :::
 
 ## *Disclaimer* 
 
 ::: {.callout-important}
-***Pertanyaan teologis***: "*Apakah penjelasan agama dan saintifik kompatibel atau bertentangan?*"
+**Pertanyaan teologis**: "*Apakah penjelasan agama dan saintifik kompatibel atau bertentangan?*"
 :::
 
 ::: {.callout-important}
-***Pertanyaan psikologis***: "*Bagaimana dan pada situasi seperti apa manusia menggunakan penjelasan agama dan saintifik?*"
+**Pertanyaan psikologis**: "*Bagaimana dan pada situasi seperti apa manusia menggunakan penjelasan agama dan saintifik?*"
 :::
 
 ## *Disclaimer* 
@@ -63,7 +65,7 @@ Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan*
 
 ::: columns
 ::: {.column width="60%"}
-Apakah Anda masih ingat bagaimana Anda **pertama kali belajar** bahwa Tuhan dan oksigen, meskipun keduanya sama-sama *tidak kasat mata*, benar-benar ada?
+Apakah Anda masih ingat bagaimana Anda **pertama kali belajar** bahwa **Tuhan** dan **oksigen** benar-benar ada, meskipun keduanya sama-sama *tidak kasat mata*?
 :::
 
 ::: {.column width="40%"}

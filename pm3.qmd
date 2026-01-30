@@ -34,7 +34,7 @@ Penjelasan yang mana yang menurut Anda lebih **meyakinkan**?
 . . .
 
 ::: {.callout-tip}
-Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan**, tetapi bagi beberapa yang lain, jawabannya bisa lebih rumit dari itu.
+Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan**, tetapi bagi beberapa yang lain, jawabannya bisa lebih rumit dari sekadar kompatibel/bertentangan.
 :::
 
 ## *Disclaimer*
@@ -44,17 +44,17 @@ Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan*
 ## *Disclaimer* 
 
 ::: {.callout-important}
-**Pertanyaan teologis**: "*Apakah penjelasan agama dan saintifik kompatibel atau bertentangan?*"
+**Pertanyaan teologis**: "*Apakah penjelasan ilmiah dan penjelasan agama kompatibel atau bertentangan?*"
 :::
 
 ## *Disclaimer* 
 
 ::: {.callout-important}
-**Pertanyaan teologis**: "*Apakah penjelasan agama dan saintifik kompatibel atau bertentangan?*"
+**Pertanyaan teologis**: "*Apakah penjelasan ilmiah dan penjelasan agama kompatibel atau bertentangan?*"
 :::
 
 ::: {.callout-important}
-**Pertanyaan psikologis**: "*Bagaimana dan pada situasi seperti apa manusia menggunakan penjelasan agama dan saintifik?*"
+**Pertanyaan psikologis**: "*Bagaimana dan pada situasi seperti apa manusia menggunakan penjelasan agama dan ilmiah?*"
 :::
 
 ## *Disclaimer* 
@@ -63,7 +63,7 @@ Beberapa orang mungkin meyakini bahwa dua penjelasan tadi **saling bertentangan*
 ::: {.incremental}
 - Saya *tidak akan* membahas koherensi, akurasi, atau *truthfulness quality* dari dua tipe penjelasan ini (natural/ilmiah vs. supranatural/agama).
 - *Tidak fokus* pada ajaran/doktrin agama tertentu, tetapi penjelasan supranatural/agama yang sifatnya umum.
-- Yang lebih menarik, apa *arti dan konsekuensinya secara psikologis* ketika seseorang menyatakan bahwa mereka **percaya** pada sains dan agama?
+- Pertanyaan yang lebih menarik, apa *arti dan konsekuensinya secara psikologis* ketika seseorang menyatakan bahwa mereka **percaya** pada sains dan/atau agama?
 :::
 
 ## Testimoni atau observasi?
@@ -208,6 +208,18 @@ Banyak orang dari berbagai usia dan budaya ditemukan menggunakan **penjelasan il
 ::: {.notes}
 Pew Research Survey 2020, 34 countries - Indonesia was involved 96% Indonesians believe that belief in God is important to be moral and have good values.
 :::
+
+## *Explanatory coexistence*
+
+> "Menurut bude, sudah takdir kepastian dari Allah. Penyakit hanya sbg trigger yang sudah Allah atur. Penyakit hanya penyebab yang diatur oleh Allah."
+>
+> --- 55F, menjelaskan kematian Bude/Tantenya
+
+## *Explanatory coexistence*
+
+> "Karena sakit ya, semulanya memang stroke. Kemudian pada saat itu, jam 3 subuh beliau sesak nafas, kemudian ketika dibawa kerumah sakit ternyata beliau sudah tidak ada nyawa lagi gitu, meninggal. Jadi memang kalau melihat dari proses, faktor umur sudah tua, nenek juga tinggal bersama kami, dan disisi lain nenek juga punya riwayat asma, jadi meninggal tersebut disebabkan faktor alamiah yang memang dikatakan sudah menjadi takdir dia gitu, maut udah menjemput dia dari sang Ilahi."
+>
+> --- 25F, menjelaskan kematian Neneknya
 
 ## Keyakinan Agama: Defisiensi atau respon adaptif?
 

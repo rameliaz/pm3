@@ -237,15 +237,19 @@ Namun, semakin banyak bukti menunjukkan bahwa hal ini disebabkan oleh fungsi pen
 
 ## Perbedaan fungsi
 
-Penjelasan ilmiah dan agama digunakan untuk **tujuan yang berbeda**, sehingga kita menerapkan **processing rules** yang berbeda ketika memproses keduanya secara psikologis.
+Penjelasan ilmiah dan agama digunakan untuk **tujuan yang berbeda**, sehingga kita menerapkan ***processing rules*** yang berbeda ketika memproses keduanya secara psikologis.
 
 . . . 
 
 Penjelasan ilmiah berguna untuk ***fungsi epistemik*** ('*to know*'), sedangkan penjelasan agama digunakan untuk tujuan ***non-epistemik*** (e.g., moral, hubungan sosial, kekuasaan, status).
 
+## Perbedaan fungsi
+
+Penjelasan faktual/ilmiah terbentuk secara ***involuntary*** yang ditunjang oleh **bukti** dan dievaluasi berdasarkan **akurasinya** menggambarkan realitas. 
+
 . . .
 
-Penjelasan faktual/ilmiah terbentuk secara ***involuntary*** yang ditunjang oleh **bukti** dan dievaluasi berdasarkan **akurasinya** menggambarkan realitas. Sementara penjelasan agama diterima secara **sukarela**, sangat **bergantung pada konteks**, dan dievaluasi berdasarkan **identitas** dan nilai-nilai yang sifatnya **normatif**.
+Sementara penjelasan agama diterima secara **sukarela**, sangat **bergantung pada konteks**, dan dievaluasi berdasarkan **identitas** dan nilai-nilai yang sifatnya **normatif**.
 
 . . .
 
